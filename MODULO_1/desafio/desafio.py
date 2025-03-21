@@ -1,5 +1,3 @@
-from re import sub
-
 contatos = []  # Agora a lista é persistente
 contato_default = {"nome":"default",
                    "telefone":"221234556",
