@@ -1,9 +1,4 @@
-contatos = []  # Agora a lista é persistente
-contato_default = {"nome":"default",
-                   "telefone":"221234556",
-                   "email":"email@gmail.com",
-                   "favorito":False}
-contatos.append(contato_default)
+contatos = []
 
 while True:
     spacer = f"\n{'='*40}\n"
